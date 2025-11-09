@@ -1,0 +1,65 @@
+Complete Blood Count (CBC):
+A CBC is a blood test that measures different components of your blood. It includes red blood cells (RBC), white blood cells (WBC), hemoglobin, hematocrit, and platelets. This test helps doctors diagnose conditions like anemia, infections, and blood disorders.
+
+Hemoglobin (Hgb):
+Hemoglobin is a protein in red blood cells that carries oxygen throughout your body. Normal levels range from 12-15.5 g/dL for women and 13.5-17.5 g/dL for men. Low hemoglobin means anemia, which can cause fatigue and weakness. High hemoglobin might indicate dehydration or lung disease.
+
+White Blood Cells (WBC):
+White blood cells are part of your immune system and fight infections. Normal range is 4,500-11,000 cells per microliter. High WBC count usually means your body is fighting an infection. Low WBC count can make you more prone to infections.
+
+LDL Cholesterol (Low-Density Lipoprotein):
+LDL is often called "bad cholesterol" because high levels can lead to plaque buildup in arteries, increasing heart disease risk. Optimal level is below 100 mg/dL. Levels above 160 mg/dL are considered high and may require treatment.
+
+HDL Cholesterol (High-Density Lipoprotein):
+HDL is "good cholesterol" that helps remove other forms of cholesterol from your bloodstream. Higher levels are better. For men, levels above 40 mg/dL are desirable; for women, above 50 mg/dL.
+
+Glucose (Blood Sugar):
+Glucose is the main sugar in your blood and your body's main source of energy. Fasting glucose should be 70-100 mg/dL. Levels 100-125 mg/dL indicate prediabetes. Levels above 126 mg/dL on two separate tests indicate diabetes.
+
+Creatinine:
+Creatinine is a waste product from muscle metabolism that's filtered by kidneys. Normal levels are 0.7-1.3 mg/dL for men and 0.6-1.1 mg/dL for women. High creatinine suggests kidney problems.
+
+Bilirubin:
+Bilirubin is a yellow substance produced when red blood cells break down. Normal total bilirubin is 0.1-1.2 mg/dL. High levels cause jaundice (yellowing of skin and eyes) and may indicate liver disease or bile duct problems.
+
+TSH (Thyroid Stimulating Hormone):
+TSH controls your thyroid gland's production of hormones that regulate metabolism. Normal range is 0.4-4.0 mIU/L. High TSH means hypothyroidism (underactive thyroid), causing fatigue and weight gain. Low TSH means hyperthyroidism (overactive thyroid), causing anxiety and weight loss.
+
+HbA1c (Hemoglobin A1c):
+HbA1c shows average blood sugar levels over the past 2-3 months. Normal is below 5.7%. Levels 5.7-6.4% indicate prediabetes. Levels 6.5% or higher indicate diabetes. It's the gold standard for diabetes monitoring.
+
+Triglycerides:
+Triglycerides are a type of fat in your blood. Normal level is below 150 mg/dL. High levels increase risk of heart disease and can indicate metabolic syndrome, especially when combined with low HDL and high blood pressure.
+
+Platelets:
+Platelets help your blood clot. Normal range is 150,000-400,000 per microliter. Low platelet count increases bleeding risk. High count may increase clotting risk or indicate inflammatory conditions.
+
+Neutrophils:
+Neutrophils are the most common type of white blood cells and are your body's first line of defense against infections. They quickly move to areas of infection or injury to destroy bacteria and other harmful invaders. Normal range is 40-75% for adults. High neutrophils usually mean bacterial infection or inflammation. Low neutrophils can make you more susceptible to infections.
+
+Lymphocytes:
+Lymphocytes are white blood cells that help fight viral infections and produce antibodies. They're crucial for your immune system. Normal range is 20-45% for adults. High lymphocytes often indicate viral infections like flu or mononucleosis. Low lymphocytes can occur with stress, HIV, or certain medications.
+
+Eosinophils:
+Eosinophils are white blood cells that fight parasitic infections and play a role in allergic reactions. Normal range is 1-8%. Elevated eosinophils often indicate allergies, asthma, or parasitic infections. Very high levels may suggest eosinophilic disorders.
+
+Monocytes:
+Monocytes are large white blood cells that become macrophages and help remove dead or damaged cells from your body. Normal range is 2-10%. Elevated monocytes can indicate chronic infections, inflammatory conditions, or recovery from acute infection.
+
+Basophils:
+Basophils are the least common type of white blood cell and are involved in allergic reactions and inflammation. Normal range is 0-1%. Elevated basophils are rare but can occur with certain blood disorders or severe allergic reactions.
+
+PCV (Packed Cell Volume):
+PCV, also called Hematocrit, measures the percentage of red blood cells in your blood. It's similar to hematocrit. Normal range is 40-54% for adult males and 34-48% for adult females. Low PCV indicates anemia. High PCV can indicate dehydration or certain blood disorders.
+
+Widal Test:
+The Widal test is a blood test used to diagnose typhoid fever and paratyphoid fever. It detects antibodies (proteins your immune system makes) against Salmonella bacteria that cause typhoid. The test measures two types of antibodies: O antigens and H antigens. A titer (measurement) of 1:80 or higher for O antigen or 1:160 or higher for H antigen suggests typhoid infection. However, the test can sometimes show false positives if you've had typhoid before, been vaccinated, or have certain other infections. If your results are negative (titers less than 1:20), it typically means you don't have an active typhoid infection, but your doctor may want to repeat the test or do additional tests if symptoms continue.
+
+S.Typhi (Salmonella Typhi):
+S.Typhi, or Salmonella Typhi, is the bacteria that causes typhoid fever. Typhoid fever is a serious infection spread through contaminated food and water, especially in areas with poor sanitation. Symptoms include prolonged fever, weakness, stomach pain, headache, and sometimes a rash. The Widal test checks for antibodies against this bacteria. A negative result for S.Typhi antibodies means your immune system hasn't detected this bacteria, suggesting you likely don't have typhoid fever. However, early in the infection (first few days), the test might be negative even if you're infected, so timing matters. If you have symptoms of typhoid, your doctor might order other tests like a blood culture for confirmation.
+
+Typhoid Fever:
+Typhoid fever is a bacterial infection caused by Salmonella Typhi. It spreads through contaminated food and water. Symptoms include high fever (103-104°F), weakness, stomach pain, headache, loss of appetite, and sometimes a rose-colored rash on the chest. Without treatment, it can be serious and even life-threatening. The Widal test helps diagnose typhoid by detecting antibodies, but it's not perfect. Normal/negative Widal test results suggest you don't have typhoid, but if symptoms persist, your doctor may recommend blood cultures or other tests for confirmation. Typhoid is treated with antibiotics and is preventable with vaccination and good hygiene.
+
+Enteric Fever:
+Enteric fever is another name for typhoid and paratyphoid fever, infections caused by Salmonella bacteria that affect the intestines and bloodstream. The term "enteric" means relating to the intestines. These infections cause prolonged fever, abdominal pain, and weakness. The Widal test is commonly used to screen for enteric fever by detecting antibodies against Salmonella Typhi (typhoid) or Salmonella Paratyphi (paratyphoid). A negative result is good news - it suggests you don't have these infections. However, the test works best after the first week of illness, so early testing might miss the infection. Your doctor will consider your symptoms and exposure history along with the test results.

@@ -1,0 +1,155 @@
+{
+  "CBC": {
+    "default": {"min": 0, "max": 999, "unit": ""}
+  },
+  "Hemoglobin": {
+    "male": {"min": 13.5, "max": 17.5, "unit": "g/dL"},
+    "female": {"min": 12.0, "max": 15.5, "unit": "g/dL"}
+  },
+  "WBC": {
+    "default": {"min": 4.0, "max": 11.0, "unit": "10^3/uL"}
+  },
+  "RBC": {
+    "male": {"min": 4.5, "max": 5.9, "unit": "million/cumm"},
+    "female": {"min": 4.0, "max": 5.2, "unit": "million/cumm"}
+  },
+  "Platelets": {
+    "default": {"min": 150, "max": 450, "unit": "Cells/cumm"}
+  },
+  "Hematocrit": {
+    "male": {"min": 40, "max": 54, "unit": "%"},
+    "female": {"min": 36, "max": 48, "unit": "%"}
+  },
+  "MCV": {
+    "default": {"min": 80, "max": 100, "unit": "fL"}
+  },
+  "MCH": {
+    "default": {"min": 27, "max": 33, "unit": "pg"}
+  },
+  "MCHC": {
+    "default": {"min": 32, "max": 36, "unit": "g/dL"}
+  },
+  "RDW": {
+    "default": {"min": 11.0, "max": 15.0, "unit": "%"}
+  },
+  "MPV": {
+    "default": {"min": 7.5, "max": 11.5, "unit": "fL"}
+  },
+  "Neutrophils": {
+    "default": {"min": 40, "max": 75, "unit": "%"}
+  },
+  "Lymphocytes": {
+    "default": {"min": 20, "max": 45, "unit": "%"}
+  },
+  "Eosinophils": {
+    "default": {"min": 1, "max": 6, "unit": "%"}
+  },
+  "Monocytes": {
+    "default": {"min": 2, "max": 10, "unit": "%"}
+  },
+  "Basophils": {
+    "default": {"min": 0, "max": 2, "unit": "%"}
+  },
+  "ESR": {
+    "male": {"min": 0, "max": 15, "unit": "mm/hr"},
+    "female": {"min": 0, "max": 20, "unit": "mm/hr"}
+  },
+  "CRP": {
+    "default": {"min": 0, "max": 10, "unit": "mg/L"}
+  },
+  "Glucose": {
+    "default": {"min": 70, "max": 100, "unit": "mg/dL"}
+  },
+  "HbA1c": {
+    "default": {"min": 4.0, "max": 5.6, "unit": "%"}
+  },
+  "Creatinine": {
+    "male": {"min": 0.7, "max": 1.3, "unit": "mg/dL"},
+    "female": {"min": 0.6, "max": 1.1, "unit": "mg/dL"}
+  },
+  "BUN": {
+    "default": {"min": 7, "max": 20, "unit": "mg/dL"}
+  },
+  "Sodium": {
+    "default": {"min": 136, "max": 145, "unit": "mEq/L"}
+  },
+  "Potassium": {
+    "default": {"min": 3.5, "max": 5.0, "unit": "mEq/L"}
+  },
+  "Chloride": {
+    "default": {"min": 96, "max": 106, "unit": "mEq/L"}
+  },
+  "Calcium": {
+    "default": {"min": 8.5, "max": 10.5, "unit": "mg/dL"}
+  },
+  "Cholesterol": {
+    "default": {"min": 0, "max": 200, "unit": "mg/dL"}
+  },
+  "LDL": {
+    "default": {"min": 0, "max": 100, "unit": "mg/dL"}
+  },
+  "HDL": {
+    "male": {"min": 40, "max": 999, "unit": "mg/dL"},
+    "female": {"min": 50, "max": 999, "unit": "mg/dL"}
+  },
+  "Triglycerides": {
+    "default": {"min": 0, "max": 150, "unit": "mg/dL"}
+  },
+  "VLDL": {
+    "default": {"min": 5, "max": 40, "unit": "mg/dL"}
+  },
+  "ALT": {
+    "default": {"min": 7, "max": 56, "unit": "U/L"}
+  },
+  "AST": {
+    "default": {"min": 10, "max": 40, "unit": "U/L"}
+  },
+  "Bilirubin": {
+    "default": {"min": 0.1, "max": 1.2, "unit": "mg/dL"}
+  },
+  "ALP": {
+    "default": {"min": 44, "max": 147, "unit": "U/L"}
+  },
+  "Albumin": {
+    "default": {"min": 3.5, "max": 5.5, "unit": "g/dL"}
+  },
+  "TSH": {
+    "default": {"min": 0.4, "max": 4.0, "unit": "mIU/L"}
+  },
+  "T3": {
+    "default": {"min": 80, "max": 200, "unit": "ng/dL"}
+  },
+  "T4": {
+    "default": {"min": 5.0, "max": 12.0, "unit": "μg/dL"}
+  },
+  "Widal Test": {
+    "default": {"min": 0, "max": 80, "unit": "titer"}
+  },
+  "Widal Test (S.Typhi)": {
+    "default": {"min": 0, "max": 20, "unit": "titer"}
+  },
+  "Ferritin": {
+    "male": {"min": 24, "max": 336, "unit": "ng/mL"},
+    "female": {"min": 11, "max": 307, "unit": "ng/mL"}
+  },
+  "Iron": {
+    "male": {"min": 65, "max": 175, "unit": "μg/dL"},
+    "female": {"min": 50, "max": 170, "unit": "μg/dL"}
+  },
+  "Vitamin D": {
+    "default": {"min": 30, "max": 100, "unit": "ng/mL"}
+  },
+  "Vitamin B12": {
+    "default": {"min": 200, "max": 900, "unit": "pg/mL"}
+  },
+  "PSA": {
+    "default": {"min": 0, "max": 4.0, "unit": "ng/mL"}
+  },
+  "Uric Acid": {
+    "male": {"min": 3.4, "max": 7.0, "unit": "mg/dL"},
+    "female": {"min": 2.4, "max": 6.0, "unit": "mg/dL"}
+  },
+  "Differential Count": {
+    "default": {"min": 0, "max": 999, "unit": ""}
+  }
+}
